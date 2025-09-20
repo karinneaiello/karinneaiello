@@ -2,4 +2,4 @@
 - 🔭 I'm studying Data Science and Computer Science at WPI
 - 🌱 I’m looking to engage in a summer data science internship
 - 📫 Reach me at: kmaiello@wpi.edu
-- ⚡ Fun fact: I had a poem published in a magazine
+- ⚡ Fun fact: I really like organizing chests in Minecraft
